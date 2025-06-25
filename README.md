@@ -27,7 +27,20 @@ cmc-sparql-template/
 
 
 
-⚙️ Usage Instructions
+## ⚙️ Usage Instructions
+
+You can use this template to:
+- Pull publicly available data into local CSV format
+- Map ontology terms to support Master Data or formulation studies
+- Showcase your data stewardship skills (e.g., SPARQL, RDF, FAIR)
+
+## ⚙️ Getting Started
+
+Clone the repo and install requirements:
+```bash
+git clone https://github.com/grant-mueller/cmc-sparql-template.git
+cd cmc-sparql-template
+
 
 ## 🧰 Requirements
 
@@ -37,16 +50,5 @@ pip install -r requirements.txt
 ```
 
 🚀 Run the Pipeline
+```bash 
 make
-
-## 📁 Project Structure
-
-cmc-sparql-template/
-├── data/                     # Output files (e.g., CSV)/                  # SPARQL query logic
-│   └── query_uniprot.py
-├── assets/                  # Screenshots, visuals
-│   └── preview.png
-├── Makefile                 # Run pipeline commands
-├── requirements.txt         # Python dependencies
-├── README.md                # Project description + usage
-└── LICENSE                  # Open source license
