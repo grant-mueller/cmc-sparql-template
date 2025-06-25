@@ -40,7 +40,7 @@ Clone the repo and install requirements:
 ```bash
 git clone https://github.com/grant-mueller/cmc-sparql-template.git
 cd cmc-sparql-template
-
+```
 
 ## 🧰 Requirements
 
