@@ -1,15 +1,14 @@
 Project Intro
 # CMC-SPARQL Pipeline
 
+💡 This project reflects the kind of data stewardship initiatives I’ve supported in global biopharma settings—bridging structured ontology resources with operational manufacturing data to enhance data quality, consistency, and traceability.
 This project demonstrates a reusable, Python-powered data pipeline for querying biomedical ontologies (like UniProt) using SPARQL. It’s designed to enrich CMC (Chemistry, Manufacturing & Controls) datasets by connecting structured external knowledge with internal product attributes.
 
 Built with data stewardship in mind, the pipeline reflects real-world challenges in harmonizing formulation data, reducing redundancy, and aligning with FAIR principles. The included use case simulates querying human enzymes involved in sphingolipid metabolism—relevant for biologic formulations involving lipid excipients.
 
 > 💡 Perfect for CMC data stewards, knowledge graph enthusiasts, and anyone working to modernize how data is captured and shared across the pharma product lifecycle.
 
-🗂  Directory Diagram
-
-## 📁 Project Structure
+## 📁 Project Structure - Directory Diagram
 
 cmc-sparql-template/
 ├── data/                     # Output files (e.g., CSV)
