@@ -1,6 +1,6 @@
 # CMC-SPARQL Pipeline
 
-🔬 CMC-SPARQL Pipeline: Enabling Semantically Enriched CMC Data
+## 🔬 CMC-SPARQL Pipeline: Enabling Semantically Enriched CMC Data
 
 > 💡 This project reflects the kind of data stewardship initiatives I’ve supported in global biopharma settings—bridging structured ontology resources with operational manufacturing data to enhance data quality, consistency, and traceability.
 This project demonstrates a reusable, Python-powered data pipeline for querying biomedical ontologies (like UniProt) using SPARQL. It’s designed to enrich CMC (Chemistry, Manufacturing & Controls) datasets by connecting structured external knowledge with internal product attributes.
