@@ -1,1 +1,2 @@
-SPARQLWrapper\npandas
+SPARQLWrapper
+pandas
